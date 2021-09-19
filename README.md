@@ -1,5 +1,5 @@
 # ubran-octo-telegram
-My first challenge was to refactor code, I was able to add in <header> <nav> <section> and <article> to the HTML 
+My first challenge was to refactor code, I was able to addgi <header> <nav> <section> and <article> to the HTML 
 
 Edits were made to the css to consolidate some of the repeated styles 
 
